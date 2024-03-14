@@ -1,2 +1,2 @@
 # Java_Pattern
-pattern code store
+pattern code store <br> learning purpose
