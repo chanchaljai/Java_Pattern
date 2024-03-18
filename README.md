@@ -7,5 +7,5 @@ simple star pattern<br>
 Star Pattern with void<br>
 *****<br>
 *   *<br>
-*   <br>
+*   *<br>
 *****<br>
