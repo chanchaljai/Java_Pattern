@@ -1,3 +1,11 @@
 # Java_Pattern
-pattern code store <br> learning purpose
-<br> add all java pattern Question
+simple star pattern<br>
+*****<br>
+*****<br>
+*****<br>
+*****<br>
+Star Pattern with void<br>
+*****<br>
+*   *<br>
+*   <br>
+*****<br>
